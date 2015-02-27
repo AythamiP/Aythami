@@ -19,7 +19,7 @@ public class CalcularMediaAritmetica {
 		
 		double media = (v1 + v2 + v3) / 3; // Si quieres que saque decilames, hay que poner 3.0;
 		
-		System.out.println("La media aritmética de la suma de " + v1 + " + " + v2 + " + " + v3 + " es igual a: " + media);
+		//System.out.println("La media aritmética de la suma de " + v1 + " + " + v2 + " + " + v3 + " es igual a: " + media);
 		
 		teclado.close();
 				
