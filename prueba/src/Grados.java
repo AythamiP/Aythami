@@ -17,7 +17,7 @@ public class Grados {
 		System.out.print("Los grados farenheit son: " + farenheit);
 		
 		teclado.close();
-		
+		//Se añade comentario
 		
 	}
 
